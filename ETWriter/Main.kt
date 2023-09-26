@@ -23,8 +23,6 @@ fun main(args: Array<String>) {
     val darkForeground = Color(200, 200, 200)
     
     UIManager.put("Panel.background", darkBackground)
-    //UIManager.put("Button.background", darkBackground)
-    //UIManager.put("Button.foreground", darkForeground)
     UIManager.put("Label.foreground", darkForeground)
 
     SwingUtilities.invokeLater {
