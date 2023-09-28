@@ -1,5 +1,5 @@
 # ETWriter
-Text editor file manager more
+Text editor file manager more. Runs on any host with a JRE    -$t@$h   QVLx Labs
 
 ![Screenshot_File](https://github.com/STashakkori/ETWriter/assets/4257899/19388385-91df-4fc7-a0d4-d562e8744d21)
 
