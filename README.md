@@ -1,5 +1,5 @@
 # ETWriter
-Text editor file manager more. Runs on any host with a JRE    -$t@$h   QVLx Labs
+Text editor file manager more. Runs on any host with a JRE
 
 Now with microSalvum shell!!
 
