@@ -12,4 +12,3 @@ Where the max directory size in this case is 100MB:
 
 ![Screenshot_Shell](https://github.com/STashakkori/ETWriter/assets/4257899/47188ca2-e9eb-43d4-8132-ccfe6e1c979a)
 ![Screenshot_File](https://github.com/STashakkori/ETWriter/assets/4257899/cac5f1b2-9ac8-4d85-a291-5791e88fab1c)
-![ET_Screen](https://github.com/STashakkori/ETWriter/assets/4257899/0ac41ea2-bc2c-4edd-aca5-bfbcb111d2db)
