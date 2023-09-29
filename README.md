@@ -1,10 +1,8 @@
-# ETWriter
-Text editor file manager more. Runs on any host with a JRE
+# MoneySaver
+This is a money saver. I've seen so many companies waste time and money inserting strings into files by hand. No more
 
-Now with microSalvum shell
+Run it like this:
+runner.bat test_dir .txt 2 104857600 "HERE IS MY INSERTION"
 
-![ETPic1](https://github.com/STashakkori/ETWriter/assets/4257899/3aab599e-18ed-4731-ac23-a8bdaa275325)
-
-![image](https://github.com/STashakkori/ETWriter/assets/4257899/a2178ca3-c1cd-4eb7-a235-65bacaedc246)
-
-![Screenshot_Shell](https://github.com/STashakkori/ETWriter/assets/4257899/4e30b0b3-8d90-482f-a24b-c745e09b651a)
+Where the max directory size in this case is 100MB:
+100 * 1024 * 1024 = 104857600B
