@@ -1,5 +1,5 @@
 // ReadScriptCommand.kt
-// By: $@$h, QVLx Labs
+// $t@$h, QVLx Labs
 
 package moneysaver
 
